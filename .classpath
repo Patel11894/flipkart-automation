@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/commons-exec-1.1.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/commons-lang3-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/cssparser-0.9.11.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/guava-15.0.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/htmlunit-2.14.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/htmlunit-core-js-2.14.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/httpclient-4.3.2.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/httpcore-4.3.1.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/httpmime-4.3.2.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/ini4j-0.5.2.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/jetty-websocket-8.1.8.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/jna-3.4.0.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/jna-platform-3.4.0.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/json-20080701.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/junit-dep-4.11.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/nekohtml-1.9.20.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/operadriver-1.5.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/phantomjsdriver-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/poi-examples-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/poi-excelant-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/poi-scratchpad-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/reportng-1.1.3.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/selenium-java-2.42.2-srcs.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/selenium-java-2.42.2.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/selenium-server-standalone-2.42.2.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/velocity-dep-1.4.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="/dhruvTestSuite/DependentJars/xslt.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
