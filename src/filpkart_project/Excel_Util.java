@@ -23,8 +23,7 @@ public class Excel_Util
 			Sheet sh=wb.getSheet(sheetName);
 			Row row=sh.getRow(rowNum);
 			String data=row.getCell(colNum).getStringCellValue();
-			return data;
-			
+			return data;			
 		}
 		
 		
